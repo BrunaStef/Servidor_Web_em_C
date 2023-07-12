@@ -1,5 +1,5 @@
 # Servidor_Web_em_C
-Um servidor web em c que utiliza uma árvore binária de busca para armazenar as rotas para as URLs.
+Um servidor web em c que utiliza uma árvore binária de busca para armazenar as rotas.
 Equipe: Bruna Stefanie, Gabriela Silva e Gustavo de Andrade.
 
 Link para a apresentação do sistema de arquivos BTFS: 
